@@ -1,1 +1,1 @@
-<a href="https://app.rocketseat.com.br/me/nandopaet"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nandopaet&type=card" width="280" alt="Fernando dos sandos paetzold's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/nandopaet"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nandopaet&type=card" width="280" alt="Fernando dos santos paetzold's Rocket ID"/></a>
