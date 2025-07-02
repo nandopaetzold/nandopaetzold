@@ -8,7 +8,7 @@ Desenvolvedor Full Stack especializado em criar soluções web inovadoras e efic
 ---
 
 ## 🏆 Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com mais de **3 anos de experiência**, trabalho no desenvolvimento de **soluções web escaláveis** para o setor público e privado. Minha jornada na programação começou com **PHP e MySQL**, e desde então venho expandindo constantemente meus conhecimentos em diferentes tecnologias e frameworks.
+Sou desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com mais de **3 anos de experiência**, trabalho no desenvolvimento de **soluções web escaláveis** para o setor público e privado. Minha jornada na programação começou com **PHP e MySQL**, e desde então venho expandindo constantemente meus conhecimentos em diferentes tecnologias e frameworks.
 
 ---
 
